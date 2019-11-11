@@ -1,0 +1,8 @@
+"Module(body=[Expr(value=
+Call(func=Name(id='print', ctx=Load()), 
+args=[Str(s='hello world')], keywords=[])), 
+
+Assign(targets=[Name(id='x', ctx=Store())], 
+value=BinOp(left=Num(n=3), 
+op=Mult(), 
+right=Num(n=20)))])"
